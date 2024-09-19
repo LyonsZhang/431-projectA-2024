@@ -21,11 +21,11 @@ website:
       - href: examples.qmd
         text: Examples
 
-    right:
-      - href: https://thomaselove.github.io/431-2024/contact.html
-        text: "Contact Us"
-      - href: https://thomaselove.github.io/431-2024
-        text: "431 Homepage"
+    # right:
+    #   - href: https://thomaselove.github.io/431-2024/contact.html
+    #     text: "Contact Us"
+    #   - href: https://thomaselove.github.io/431-2024
+    #     text: "431 Homepage"
 
 format:
   html:

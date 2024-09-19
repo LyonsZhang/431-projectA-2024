@@ -4,7 +4,7 @@ project:
 
 website:
   title: "431 Project A"
-  page-footer: "Fall 2024: PQHS/CRSP/MPHP 431 at CWRU with Professor Love"
+  page-footer: "Fall 2024: PQHS/CRSP/MPHP 431 at CWRU with Professor Zhang"
   navbar:
     background: "#063970"
     left:
@@ -21,11 +21,11 @@ website:
       - href: examples.qmd
         text: Examples
 
-    right:
-      - href: https://thomaselove.github.io/431-2024/contact.html
-        text: "Contact Us"
-      - href: https://thomaselove.github.io/431-2024
-        text: "431 Homepage"
+    # right:
+    #   - href: https://thomaselove.github.io/431-2024/contact.html
+    #     text: "Contact Us"
+    #   - href: https://thomaselove.github.io/431-2024
+    #     text: "431 Homepage"
 
 format:
   html:
