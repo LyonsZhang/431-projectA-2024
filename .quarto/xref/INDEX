@@ -1,0 +1,20 @@
+{
+  "plan.qmd": {
+    "plan.html": "0819085b"
+  },
+  "examples.qmd": {
+    "examples.html": "782b9bf5"
+  },
+  "index.qmd": {
+    "index.html": "c7c6c5bb"
+  },
+  "analyses.qmd": {
+    "analyses.html": "c24a6de8"
+  },
+  "portfolio.qmd": {
+    "portfolio.html": "346cd753"
+  },
+  "data.qmd": {
+    "data.html": "34d2cddd"
+  }
+}
