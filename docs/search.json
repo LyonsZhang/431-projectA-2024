@@ -263,7 +263,7 @@
     "href": "plan.html#section-1.-r-packages",
     "title": "Project A Plan",
     "section": "5.1 Section 1. R Packages",
-    "text": "5.1 Section 1. R Packages\nAll necessary packages (and no unused packages) should be loaded at the start of the work, and all warnings or messages associated with that loading are suppressed in the HTML result.\n\n\n\n\n\n\nNote\n\n\n\nIt seems impossible to do this work without the janitor, naniar, xfun, easystats and tidyverse packages. Remember to load easystats and the tidyverse last.\nThe use of other packages is up to you, and you may want to source in the Love-431.R script, too."
+    "text": "5.1 Section 1. R Packages\nAll necessary packages (and no unused packages) should be loaded at the start of the work, and all warnings or messages associated with that loading are suppressed in the HTML result.\n\n\n\n\n\n\nNote\n\n\n\nIt seems impossible to do this work without the janitor, naniar, xfun, easystats and tidyverse packages. Remember to load easystats and the tidyverse last."
   },
   {
     "objectID": "plan.html#section-2.-data-ingest",

@@ -58,7 +58,7 @@ All necessary packages (and no unused packages) should be loaded at the start of
 
 It seems impossible to do this work without the `janitor`, `naniar`, `xfun`, `easystats` and `tidyverse` packages. Remember to load `easystats` and the `tidyverse` last. 
 
-The use of other packages is up to you, and you may want to source in the `Love-431.R` script, too.
+<!-- The use of other packages is up to you, and you may want to source in the `Love-431.R` script, too. -->
 
 :::
 
