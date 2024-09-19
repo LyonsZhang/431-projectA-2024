@@ -1,6 +1,6 @@
 ---
 title: "431 Project A Instructions"
-author: "Thomas E. Love, Ph.D."
+author: "Liangliang Zhang, Ph.D."
 date-modified: last-modified
 ---
 
