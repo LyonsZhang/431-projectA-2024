@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/431-projectA-2024/portfolio.qmd",
     "project_path": "portfolio.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3916614658",
     "contents": "",
     "dirty": false,
     "created": 1726770917574.0,
@@ -13,15 +13,15 @@
         "rmdVisualMode": "false",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "115,60",
-        "scrollLine": "112"
+        "cursorPosition": "34,11",
+        "scrollLine": "33"
     },
     "folds": "",
-    "lastKnownWriteTime": 1726769165,
+    "lastKnownWriteTime": 1726771353,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1726769165,
+    "last_content_update": 1726771353387,
     "read_only": false,
     "read_only_alternatives": []
 }
