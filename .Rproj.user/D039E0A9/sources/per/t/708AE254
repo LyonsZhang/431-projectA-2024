@@ -1,27 +1,27 @@
 {
-    "id": "D7B2A56E",
-    "path": "~/Documents/GitHub/431-projectA-2024/plan.qmd",
-    "project_path": "plan.qmd",
+    "id": "708AE254",
+    "path": "~/Documents/GitHub/431-projectA-2024/portfolio.qmd",
+    "project_path": "portfolio.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3916614658",
     "contents": "",
     "dirty": false,
-    "created": 1726769742471.0,
+    "created": 1726770917574.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 6,
     "properties": {
         "rmdVisualMode": "false",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "293,141",
-        "scrollLine": "292"
+        "cursorPosition": "44,164",
+        "scrollLine": "42"
     },
     "folds": "",
-    "lastKnownWriteTime": 1726770860,
+    "lastKnownWriteTime": 1726771353,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1726770860207,
+    "last_content_update": 1726771353387,
     "read_only": false,
     "read_only_alternatives": []
 }
